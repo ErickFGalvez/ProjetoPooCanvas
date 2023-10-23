@@ -48,3 +48,36 @@ Este método ajusta o raio do caminho de recorte, modificando a propriedade `c`.
 - **Transformação**: A transformação é um processo que combina translação, rotação e escala para alterar a posição, orientação e tamanho de um objeto. Isso é feito por meio do método `setTransform(a, b, c, d, e, f)` e `transform(a, b, c, d, e, f)`.
 
 - **Caminho de Recorte (Clipping Path)**: Um caminho de recorte define uma área no canvas onde o conteúdo será visível. Qualquer parte do desenho fora dessa área é ocultada. No código, o caminho de recorte é definido no método `desenhar()` usando o raio especificado em `caminhoDeRecorte(vc)`.
+
+# Canvas Animation Readme
+
+Este é o arquivo README para o código de animação no canvas HTML5. O código demonstra uma aplicação simples de animação e interação com objetos em um canvas.
+
+## Funcionalidade Geral
+
+Este código cria um canvas HTML5 e um objeto animado representado pela classe `CanvasObject`. O objeto é inicialmente posicionado em (200, 200), com uma rotação inicial de 0.1 radianos, uma escala inicial de 1 e um raio de recorte de 500.
+
+A animação consiste em mover o objeto pelo canvas, permitir a rotação do objeto e interagir com ele usando as teclas do teclado.
+
+## Componentes do Código
+
+### Inicialização
+
+- O código começa obtendo o elemento canvas com o ID 'myCanvas' e seu contexto 2D.
+- Um objeto `CanvasObject` é criado com os parâmetros iniciais de posição, rotação, escala e raio de recorte.
+- Velocidades `velox` e `veloy` são definidas para controlar o movimento do objeto.
+
+### Função de Animação (`animar`)
+
+- A função `animar` é responsável por limpar o canvas, desenhar o objeto, aplicar translações para movê-lo e verificar colisões com as bordas do canvas.
+- Se o objeto atingir as bordas do canvas, as velocidades são invertidas para criar um efeito de rebote.
+- A função também aplica uma rotação constante ao objeto.
+- `requestAnimationFrame` é usado para chamar a função `animar` continuamente, criando uma animação suave.
+
+### Event Listeners
+
+- Event listeners são configurados para responder às teclas pressionadas.
+- Ao pressionar a tecla 'A' ou 'a', o objeto é reduzido em escala.
+- Ao pressionar a tecla 'D' ou 'd', o objeto é aumentado em escala.
+- Ao pressionar a tecla 'W' ou 'w', a área de recorte do objeto é aumentada.
+- Ao pressionar a tecla 'S' ou 's', a área de recorte do objeto é reduzida.
