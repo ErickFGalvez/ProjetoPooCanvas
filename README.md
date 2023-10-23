@@ -100,7 +100,7 @@ A animação consiste em mover o objeto pelo canvas, permitir a rotação do obj
 
 # Diagrama de Classes
 
-![WhatsApp Image 2023-10-23 at 19 18 31](https://github.com/ErickFGalvez/ProjetoPooCanvas/assets/128325280/9d4d6a1b-9622-481a-9a48-9e5ba449a722)
+![diagrma](https://github.com/ErickFGalvez/ProjetoPooCanvas/assets/128325280/57b121db-ee79-4fab-9017-1426125f9b2a)
 
 # Codigos do Git 
 
