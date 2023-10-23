@@ -1,4 +1,20 @@
-# ProjetoPooCanvas  
+# Nomes
+Erick Felipe Mendes Galvez
+
+# AtividadeMusica
+Atividade passada pela orientadora Aline Firmino.Pesquisa, explicaçao e demonstraçao (utilizando Programação Orientada a Objetos de forma coerente) em uma cena canvas/js os seguintes conceitos/funções:
+Translação 
+Rotação 
+Escala
+Transform
+Clipping Path
+
+## Requisitos
+
+1. Cronar o Repositorio
+2.Abrir o Index.Html no navegador.
+
+## Segue a Explicaçao e a Pesquisa dos Scripts
 
 ## CanvasObject ReadMe
 
