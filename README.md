@@ -53,6 +53,10 @@ Este método aplica uma escala ao objeto, modificando seu fator de escala. O fat
 
 Este método ajusta o raio do caminho de recorte, modificando a propriedade `c`. O raio é restrito a valores entre 50 e 500.
 
+# Video o link do Canvas funcionado
+
+https://youtu.be/Y-B3QEGZfc4
+
 ## Explicações
 
 - **Translação**: A translação é o deslocamento de um objeto em um plano. No contexto deste código, a translação é aplicada usando o método `traduzir(vx, vy)`, onde `vx` e `vy` representam as quantidades pelas quais o objeto é deslocado nas direções x e y, respectivamente.
