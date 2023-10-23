@@ -49,7 +49,7 @@ Este método ajusta o raio do caminho de recorte, modificando a propriedade `c`.
 
 - **Caminho de Recorte (Clipping Path)**: Um caminho de recorte define uma área no canvas onde o conteúdo será visível. Qualquer parte do desenho fora dessa área é ocultada. No código, o caminho de recorte é definido no método `desenhar()` usando o raio especificado em `caminhoDeRecorte(vc)`.
 
-##Script Readme
+## Script Readme
 
 Este é o arquivo README para o código de animação no canvas HTML. O código demonstra uma aplicação simples de animação e interação com objetos em um canvas.
 
