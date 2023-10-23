@@ -98,6 +98,14 @@ A animação consiste em mover o objeto pelo canvas, permitir a rotação do obj
 - Ao pressionar a tecla 'W' ou 'w', a área de recorte do objeto é aumentada.
 - Ao pressionar a tecla 'S' ou 's', a área de recorte do objeto é reduzida.
 
-#Diagrama de Classes
+# Diagrama de Classes
+
+![WhatsApp Image 2023-10-23 at 19 18 31](https://github.com/ErickFGalvez/ProjetoPooCanvas/assets/128325280/9d4d6a1b-9622-481a-9a48-9e5ba449a722)
+
+# Codigos do Git 
+
+![gitcomandos](https://github.com/ErickFGalvez/ProjetoPooCanvas/assets/128325280/53eeea56-309d-4dcd-bccb-1dd970ba31f5)
+
+
 
 
