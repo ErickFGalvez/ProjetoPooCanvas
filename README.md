@@ -1,6 +1,6 @@
 # ProjetoPooCanvas  
 
-# CanvasObject ReadMe
+## CanvasObject ReadMe
 
 Este é o arquivo README para a classe `CanvasObject`. A classe `CanvasObject` foi projetada para auxiliar na criação e transformação de objetos em um canvas HTML. Ela fornece métodos para desenhar formas, aplicar translações, rotações e escalas, bem como definir caminhos de recorte no canvas.
 
@@ -49,9 +49,9 @@ Este método ajusta o raio do caminho de recorte, modificando a propriedade `c`.
 
 - **Caminho de Recorte (Clipping Path)**: Um caminho de recorte define uma área no canvas onde o conteúdo será visível. Qualquer parte do desenho fora dessa área é ocultada. No código, o caminho de recorte é definido no método `desenhar()` usando o raio especificado em `caminhoDeRecorte(vc)`.
 
-# Canvas Animation Readme
+##Script Readme
 
-Este é o arquivo README para o código de animação no canvas HTML5. O código demonstra uma aplicação simples de animação e interação com objetos em um canvas.
+Este é o arquivo README para o código de animação no canvas HTML. O código demonstra uma aplicação simples de animação e interação com objetos em um canvas.
 
 ## Funcionalidade Geral
 
