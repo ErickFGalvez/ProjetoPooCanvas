@@ -97,3 +97,7 @@ A animação consiste em mover o objeto pelo canvas, permitir a rotação do obj
 - Ao pressionar a tecla 'D' ou 'd', o objeto é aumentado em escala.
 - Ao pressionar a tecla 'W' ou 'w', a área de recorte do objeto é aumentada.
 - Ao pressionar a tecla 'S' ou 's', a área de recorte do objeto é reduzida.
+
+#Diagrama de Classes
+
+
